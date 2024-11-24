@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     screens: {
       'mayda':'0px',
-      'sm': '640px',
+      'sm': '510px',
       // => @media (min-width: 640px) { ... }
 
       'md': '768px',
