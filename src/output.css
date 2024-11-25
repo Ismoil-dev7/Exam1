@@ -611,6 +611,10 @@ video {
   margin-left: 6rem;
 }
 
+.ml-3 {
+  margin-left: 0.75rem;
+}
+
 .ml-32 {
   margin-left: 8rem;
 }
@@ -671,6 +675,10 @@ video {
   margin-top: 8rem;
 }
 
+.mt-36 {
+  margin-top: 9rem;
+}
+
 .mt-4 {
   margin-top: 1rem;
 }
@@ -693,10 +701,6 @@ video {
 
 .mt-\[3\.5px\] {
   margin-top: 3.5px;
-}
-
-.ml-20 {
-  margin-left: 5rem;
 }
 
 .block {
@@ -757,6 +761,10 @@ video {
 
 .h-\[323px\] {
   height: 323px;
+}
+
+.h-\[32px\] {
+  height: 32px;
 }
 
 .h-\[36px\] {
@@ -835,6 +843,10 @@ video {
   width: 14px;
 }
 
+.w-\[150px\] {
+  width: 150px;
+}
+
 .w-\[154px\] {
   width: 154px;
 }
@@ -877,6 +889,10 @@ video {
 
 .w-\[20px\] {
   width: 20px;
+}
+
+.w-\[240px\] {
+  width: 240px;
 }
 
 .w-\[242px\] {
@@ -935,8 +951,16 @@ video {
   width: 52px;
 }
 
+.w-\[60px\] {
+  width: 60px;
+}
+
 .w-\[70px\] {
   width: 70px;
+}
+
+.w-\[752px\] {
+  width: 752px;
 }
 
 .w-\[77px\] {
@@ -945,6 +969,10 @@ video {
 
 .w-\[80px\] {
   width: 80px;
+}
+
+.w-\[810px\] {
+  width: 810px;
 }
 
 .w-\[8px\] {
@@ -969,14 +997,6 @@ video {
 
 .w-full {
   width: 100%;
-}
-
-.w-\[3900px\] {
-  width: 3900px;
-}
-
-.w-\[705px\] {
-  width: 705px;
 }
 
 .max-w-4xl {
@@ -1037,6 +1057,14 @@ video {
 
 .gap-6 {
   gap: 1.5rem;
+}
+
+.gap-\[10px\] {
+  gap: 10px;
+}
+
+.gap-\[20px\] {
+  gap: 20px;
 }
 
 .gap-\[30px\] {
@@ -1185,10 +1213,6 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
 }
 
-.bg-\[\] {
-  background-color: ;
-}
-
 .p-3 {
   padding: 0.75rem;
 }
@@ -1263,6 +1287,10 @@ video {
 
 .text-\[12px\] {
   font-size: 12px;
+}
+
+.text-\[14px\] {
+  font-size: 14px;
 }
 
 .text-\[16px\] {
@@ -1521,6 +1549,10 @@ video {
     margin-top: 1.5rem;
   }
 
+  .mayda\:ml-8 {
+    margin-left: 2rem;
+  }
+
   .mayda\:hidden {
     display: none;
   }
@@ -1641,6 +1673,10 @@ video {
 
   .md\:mt-\[0px\] {
     margin-top: 0px;
+  }
+
+  .md\:ml-36 {
+    margin-left: 9rem;
   }
 
   .md\:flex {
@@ -1767,6 +1803,10 @@ video {
     width: 690px;
   }
 
+  .md\:w-\[705px\] {
+    width: 705px;
+  }
+
   .md\:w-\[752px\] {
     width: 752px;
   }
@@ -1777,10 +1817,6 @@ video {
 
   .md\:w-\[90\%\] {
     width: 90%;
-  }
-
-  .md\:w-\[705px\] {
-    width: 705px;
   }
 
   .md\:grid-cols-3 {
